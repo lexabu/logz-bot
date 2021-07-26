@@ -1,2 +1,1 @@
-### Logz Discord Bot
-### Big Time Logger for CFG validator.
+### Logz Discord Bot - Big Time Logger for CFG validator
